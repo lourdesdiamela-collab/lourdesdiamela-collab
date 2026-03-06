@@ -14,7 +14,7 @@
 
 Soy una persona apasionada por la tecnología, con un enfoque multidisciplinario. Mi meta es construir soluciones completas, desde la arquitectura de datos hasta el desarrollo de productos digitales funcionales y estéticos.
 
-* 💡 **Especializaciones:** Me especializo en **Data Science, Data Engineering y Tecnologías Web**, lo que me permite tener una visión integral (End-to-End) de los proyectos tecnológicos.
+* 💡 **Especializaciones:** Me especializo en **Data Science, Data Engineering **, lo que me permite tener una visión integral (End-to-End) de los proyectos tecnológicos.
 * 🔭 Actualmente me encuentro potenciando mis habilidades analíticas como Jr. Student de Ciencias de Datos en la academia **Henry**.
 * 🚀 Me encanta transformar conjuntos de datos complejos en **soluciones visuales orientadas a negocios** y estructurar proyectos de principio a fin.
 * 🌱 Siempre estoy aprendiendo nuevas tecnologías y frameworks para construir software eficiente y de calidad.
