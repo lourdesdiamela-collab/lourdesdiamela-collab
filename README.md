@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Lourdes!%20👋&fontSize=50&fontAlignY=38" />
 
-  <h3>Data Scientist Jr. & Especialista en Marketing Digital</h3>
+  <h3>Data Scientist Jr. & Especialista en Marketing</h3>
   
   <a href="https://github.com/lourdesdiamela-collab"><img src="https://komarev.com/ghpvc/?username=lourdesdiamela-collab&color=blue" alt="Profile views" /></a>
 </div>
