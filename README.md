@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Lourdes!%20👋&fontSize=50&fontAlignY=38" />
 
-  <h3>Junior Data Scientist & Especialista en Marketing Digital</h3>
+  <h3>Data Scientist Jr. & Especialista en Marketing Digital</h3>
   
   <a href="https://github.com/lourdesdiamela-collab"><img src="https://komarev.com/ghpvc/?username=lourdesdiamela-collab&color=blue" alt="Profile views" /></a>
 </div>
@@ -12,7 +12,7 @@
 
 🌟 ¡Bienvenida/o a mi perfil de GitHub! 
 
-Soy una apasionada de los datos y la comunicación digital. Mi perfil une lo mejor de dos mundos: cuento con sólida experiencia como **Estratega Digital y Especialista en Marketing**, y actualmente me estoy desarrollando como **Junior Data Scientist**.
+Soy una apasionada de los datos y la comunicación digital. Mi perfil une lo mejor de dos mundos: cuento con sólida experiencia como **Estratega Digital y Especialista en Marketing**, y actualmente me estoy desarrollando como **Data Scientist Jr.**.
 
 * 💡 **Mi ventaja:** Al tener un fuerte background en gestión de comunidades, estrategias de contenido y operaciones con clientes, no solo sé programar modelos predictivos; entiendo la lógica del negocio detrás del comportamiento del usuario y sé cómo transformar esos insights en acciones rentables (*Data-Driven Marketing*).
 * 🔭 Me encuentro perfeccionando mis habilidades analíticas en la academia **Henry**, desarrollando proyectos end-to-end de predicción de abandono de clientes (Churn), riesgo crediticio y tableros interactivos (Business Intelligence).
