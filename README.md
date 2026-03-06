@@ -1,11 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Lourdes!%20👋&fontSize=50&fontAlignY=38" />
 
-<<<<<<< HEAD
-  <h3>Especialista en marketing diseño y publicidad - Data sciencist Jr. | Transformando ideas en soluciones digitales</h3>
-=======
   <h3>Junior Data Scientist & Especialista en Marketing Digital</h3>
->>>>>>> 8b21171 (Update profile to Junior Data Scientist & Marketing Specialist)
   
   <a href="https://github.com/lourdesdiamela-collab"><img src="https://komarev.com/ghpvc/?username=lourdesdiamela-collab&color=blue" alt="Profile views" /></a>
 </div>
@@ -16,22 +12,12 @@
 
 🌟 ¡Bienvenida/o a mi perfil de GitHub! 
 
-<<<<<<< HEAD
-Soy una persona apasionada por la tecnología, con un enfoque multidisciplinario. Mi meta es construir soluciones completas, desde la arquitectura de datos hasta el desarrollo de productos digitales funcionales y estéticos.
-
-* 💡 **Especializaciones:** Me especializo en **Data Science, Data Engineering **, lo que me permite tener una visión integral (End-to-End) de los proyectos tecnológicos.
-* 🔭 Actualmente me encuentro potenciando mis habilidades analíticas como Jr. Student de Ciencias de Datos en la academia **Henry**.
-* 🚀 Me encanta transformar conjuntos de datos complejos en **soluciones visuales orientadas a negocios** y estructurar proyectos de principio a fin.
-* 🌱 Siempre estoy aprendiendo nuevas tecnologías y frameworks para construir software eficiente y de calidad.
-* 💬 Pregúntame sobre **Python, análisis de datos, modelado predictivo, arquitectura web y metodologías ágiles**.
-=======
 Soy una apasionada de los datos y la comunicación digital. Mi perfil une lo mejor de dos mundos: cuento con sólida experiencia como **Community Manager y Especialista en Marketing Digital**, y actualmente me estoy desarrollando como **Junior Data Scientist**.
 
 * 💡 **Mi ventaja:** Al tener un fuerte background en gestión de comunidades, estrategias de contenido y operaciones con clientes, no solo sé programar modelos predictivos; entiendo la lógica del negocio detrás del comportamiento del usuario y sé cómo transformar esos insights en acciones rentables (*Data-Driven Marketing*).
 * 🔭 Me encuentro perfeccionando mis habilidades analíticas en la academia **Henry**, desarrollando proyectos end-to-end de predicción de abandono de clientes (Churn), riesgo crediticio y tableros interactivos (Business Intelligence).
 * 🚀 Busco mi primera oportunidad IT como Analista de Datos o Junior Data Scientist, donde pueda aportar valor inmediato combinando mis conocimientos de negocio con herramientas técnicas.
-* 💬 Pregúntame sobre **Estrategias de Growth, Python, SQL, Storytelling con datos y Power BI**.
->>>>>>> 8b21171 (Update profile to Junior Data Scientist & Marketing Specialist)
+* 💬 Pregúntame sobre **Estrategias de Growth, Analítica Web, Python, SQL, Storytelling con datos y Power BI**.
 
 ---
 
