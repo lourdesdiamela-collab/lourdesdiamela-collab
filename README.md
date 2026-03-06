@@ -17,7 +17,7 @@ Soy una apasionada de los datos y la comunicación digital. Mi perfil une lo mej
 * 💡 **Mi ventaja:** Al tener un fuerte background en gestión de comunidades, estrategias de contenido y operaciones con clientes, no solo sé programar modelos predictivos; entiendo la lógica del negocio detrás del comportamiento del usuario y sé cómo transformar esos insights en acciones rentables (*Data-Driven Marketing*).
 * 🔭 Me encuentro perfeccionando mis habilidades analíticas en la academia **Henry**, desarrollando proyectos end-to-end de predicción de abandono de clientes (Churn), riesgo crediticio y tableros interactivos (Business Intelligence).
 * 🚀 Este perfil es mi **Portfolio Personal**, un espacio donde documento mi evolución técnica, mis proyectos académicos y soluciones interactivas creadas con código.
-* 💬 Pregúntame sobre **Estrategias de Growth, Analítica Web, Python, SQL, Storytelling con datos y Power BI**.
+
 
 ---
 
