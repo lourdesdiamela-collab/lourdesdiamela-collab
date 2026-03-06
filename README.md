@@ -8,16 +8,17 @@
 
 ---
 
-### 👩🏻💻 Sobre mí
+### ## 👩🏻‍💻 Sobre mí
 
-🌟 ¡Bienvenida/o a mi perfil de GitHub! 
+✨ ¡Bienvenido/a a mi perfil de GitHub!
 
-Soy una apasionada de los datos y la comunicación digital. Mi perfil une lo mejor de dos mundos: cuento con sólida experiencia como **Estratega Digital y Especialista en Marketing**, y actualmente me estoy desarrollando como **Data Scientist Jr.**.
+Soy una apasionada de los datos y la comunicación digital. Mi perfil combina dos mundos que me representan: mi experiencia en marketing digital, estrategia de contenido y trabajo con clientes, junto con mi formación actual en Data Science.
 
-* 💡 **Mi ventaja:** Al tener un fuerte background en gestión de comunidades, estrategias de contenido y operaciones con clientes, no solo sé programar modelos predictivos; entiendo la lógica del negocio detrás del comportamiento del usuario y sé cómo transformar esos insights en acciones rentables (*Data-Driven Marketing*).
-* 🔭 Me encuentro perfeccionando mis habilidades analíticas en la academia **Henry**, desarrollando proyectos end-to-end de predicción de abandono de clientes (Churn), riesgo crediticio y tableros interactivos (Business Intelligence).
-* 🚀 Este perfil es mi **Portfolio Personal**, un espacio donde documento mi evolución técnica, mis proyectos académicos y soluciones interactivas creadas con código.
+💡 Mi diferencial está en unir análisis y visión de negocio: no solo me interesa entender los datos, sino también transformarlos en ideas, soluciones y decisiones con impacto real.
 
+📊 Actualmente me encuentro fortaleciendo mis habilidades en Python, SQL, Power BI y Excel, desarrollando proyectos de análisis, visualización, reporting y modelado predictivo.
+
+🚀 Este perfil funciona como mi portfolio personal, donde comparto mi evolución en el área de datos, mis proyectos académicos y trabajos orientados a resolver problemas reales con una mirada analítica y práctica.
 
 ---
 
