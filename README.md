@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Lourdes!%20👋&fontSize=50&fontAlignY=38" />
 
-  <h3>Especialista en Datos y Tecnología | Transformando ideas en soluciones digitales</h3>
+  <h3>Especialista en marketing diseño y publicidad - Data sciencist Jr. | Transformando ideas en soluciones digitales</h3>
   
   <a href="https://github.com/lourdesdiamela-collab"><img src="https://komarev.com/ghpvc/?username=lourdesdiamela-collab&color=blue" alt="Profile views" /></a>
 </div>
@@ -12,10 +12,10 @@
 
 🌟 ¡Bienvenida/o a mi perfil de GitHub! 
 
-Soy una profesional apasionada por la tecnología, con un enfoque multidisciplinario. Mi meta es construir soluciones completas, desde la arquitectura de datos hasta el desarrollo de productos digitales funcionales y estéticos.
+Soy una persona apasionada por la tecnología, con un enfoque multidisciplinario. Mi meta es construir soluciones completas, desde la arquitectura de datos hasta el desarrollo de productos digitales funcionales y estéticos.
 
 * 💡 **Especializaciones:** Me especializo en **Data Science, Data Engineering y Tecnologías Web**, lo que me permite tener una visión integral (End-to-End) de los proyectos tecnológicos.
-* 🔭 Actualmente me encuentro potenciando mis habilidades analíticas como Senior Student de Ciencias de Datos en la academia **Henry**.
+* 🔭 Actualmente me encuentro potenciando mis habilidades analíticas como Jr. Student de Ciencias de Datos en la academia **Henry**.
 * 🚀 Me encanta transformar conjuntos de datos complejos en **soluciones visuales orientadas a negocios** y estructurar proyectos de principio a fin.
 * 🌱 Siempre estoy aprendiendo nuevas tecnologías y frameworks para construir software eficiente y de calidad.
 * 💬 Pregúntame sobre **Python, análisis de datos, modelado predictivo, arquitectura web y metodologías ágiles**.
