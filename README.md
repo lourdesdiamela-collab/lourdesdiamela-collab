@@ -12,7 +12,7 @@
 
 🌟 ¡Bienvenida/o a mi perfil de GitHub! 
 
-Soy una apasionada de los datos y la comunicación digital. Mi perfil une lo mejor de dos mundos: cuento con sólida experiencia como **Community Manager y Especialista en Marketing Digital**, y actualmente me estoy desarrollando como **Junior Data Scientist**.
+Soy una apasionada de los datos y la comunicación digital. Mi perfil une lo mejor de dos mundos: cuento con sólida experiencia como **Estratega Digital y Especialista en Marketing**, y actualmente me estoy desarrollando como **Junior Data Scientist**.
 
 * 💡 **Mi ventaja:** Al tener un fuerte background en gestión de comunidades, estrategias de contenido y operaciones con clientes, no solo sé programar modelos predictivos; entiendo la lógica del negocio detrás del comportamiento del usuario y sé cómo transformar esos insights en acciones rentables (*Data-Driven Marketing*).
 * 🔭 Me encuentro perfeccionando mis habilidades analíticas en la academia **Henry**, desarrollando proyectos end-to-end de predicción de abandono de clientes (Churn), riesgo crediticio y tableros interactivos (Business Intelligence).
