@@ -8,12 +8,12 @@
 
 ## 👩🏻‍💻 Sobre mí
 
-¡Hola! Soy una profesional apasionada por los datos y la comunicación digital. Mi perfil combina dos mundos complementarios: una sólida trayectoria en marketing digital y estrategia orientada a negocio, junto con mi especialización técnica en **Data Science**.
+¡Hola! Soy Lourdes, **Data Scientist Jr.** con un enfoque práctico orientado al análisis y la resolución de problemas corporativos. 
 
-Mi valor diferencial radica en transformar el análisis de datos puros en ideas, soluciones y decisiones con impacto directo en el negocio. No solo construyo modelos; entiendo la lógica detrás del comportamiento de los usuarios y clientes.
+Manejo datos porque me apasiona encontrar sentido detrás de la información. Gracias a mi experiencia en estrategias de clientes y negocios digitales, no solo diseño queries y modelos predictivos, sino que entiendo cómo usar esos resultados para generar impacto real y tomar mejores decisiones.
 
-- 🎓 Actualmente me encuentro enfocada en el desarrollo de proyectos *end-to-end* involucrando análisis, visualización, reporting y modelado predictivo.
-- 💼 Este espacio funciona como mi portfolio técnico, donde documento soluciones orientadas a resolver problemas reales con una mirada analítica y práctica.
+- 🎓 **Mi stack actual:** Python, SQL, Power BI, herramientas de Machine Learning básico y Excel avanzado.
+- 💼 **Acerca de este perfil:** Aquí subo mis proyectos, mi evolución y las soluciones que construyo mientras crezco en la industria de los datos.
 
 ---
 
