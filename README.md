@@ -8,7 +8,7 @@
 
 ## 👩🏻‍💻 Sobre mí
 
-¡Hola! Soy Lourdes, **Estudio Data Scientist** con un enfoque práctico orientado al análisis y la resolución de problemas corporativos. 
+¡Hola! Soy Lourdes, ** con un enfoque práctico orientado al análisis y la resolución de problemas corporativos. 
 
 Manejo datos porque me apasiona encontrar sentido detrás de la información. Gracias a mi experiencia en estrategias de clientes y negocios digitales, no solo diseño queries y modelos predictivos, sino que entiendo cómo usar esos resultados para generar impacto real y tomar mejores decisiones.
 
